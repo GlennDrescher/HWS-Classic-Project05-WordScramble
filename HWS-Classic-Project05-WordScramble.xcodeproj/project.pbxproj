@@ -13,6 +13,7 @@
 		21EEC207247991FB00E2A1BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21EEC205247991FB00E2A1BF /* Main.storyboard */; };
 		21EEC209247991FD00E2A1BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21EEC208247991FD00E2A1BF /* Assets.xcassets */; };
 		21EEC20C247991FD00E2A1BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21EEC20A247991FD00E2A1BF /* LaunchScreen.storyboard */; };
+		21EEC2142479933200E2A1BF /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 21EEC2132479933200E2A1BF /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		21EEC208247991FD00E2A1BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21EEC20B247991FD00E2A1BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21EEC20D247991FD00E2A1BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21EEC2132479933200E2A1BF /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				21EEC208247991FD00E2A1BF /* Assets.xcassets */,
 				21EEC20A247991FD00E2A1BF /* LaunchScreen.storyboard */,
 				21EEC20D247991FD00E2A1BF /* Info.plist */,
+				21EEC2132479933200E2A1BF /* start.txt */,
 			);
 			path = "HWS-Classic-Project05-WordScramble";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21EEC20C247991FD00E2A1BF /* LaunchScreen.storyboard in Resources */,
+				21EEC2142479933200E2A1BF /* start.txt in Resources */,
 				21EEC209247991FD00E2A1BF /* Assets.xcassets in Resources */,
 				21EEC207247991FB00E2A1BF /* Main.storyboard in Resources */,
 			);
